@@ -102,7 +102,7 @@ ${<Code>{
     "server",
     "static",
     "package.json",
-    "yarn.lock"
+    "node_modules"
   ],
   ...
 }
